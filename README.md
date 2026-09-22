@@ -31,15 +31,17 @@ Migrasi tenaga kerja dari Indonesia terus meningkat, didorong oleh keterbatasan 
 
 ## Struktur Repositori
 
+```
 ├── code/
-│ └── data_wrangling.ipynb # Notebook: collecting, cleaning, integration
+│   └── data_wrangling.ipynb       # Notebook: collecting, cleaning, integration
 ├── eda/
-│ └── eda_visualization.ipynb # Notebook: exploratory data analysis & visualisasi
+│   └── eda_visualization.ipynb    # Notebook: exploratory data analysis & visualisasi
 ├── data/
-│ ├── raw_data/ # Data mentah dari BPS, BP2MI, Kemnaker
-│ └── processed_data/ # Dataset hasil cleaning & integrasi
-│ └── final_data/ # Dataset final
+│   ├── raw_data/                  # Data mentah dari BPS, BP2MI, Kemnaker
+│   ├── processed_data/            # Dataset hasil cleaning & integrasi
+│   └── final_data/                # Dataset final
 └── README.md
+```
 
 ## Insight Utama
 
