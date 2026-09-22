@@ -61,6 +61,6 @@ Migrasi tenaga kerja dari Indonesia terus meningkat, didorong oleh keterbatasan 
 
 **Dosen Pengampu:** Ike Fitriyaningsih, M.Si
 
-## 📄 Lisensi
+## Lisensi
 
 Proyek ini dibuat untuk keperluan akademik (tugas mata kuliah). Data bersumber dari lembaga resmi pemerintah Indonesia (BPS, BP2MI, Kemnaker) yang bersifat publik.
